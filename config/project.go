@@ -14,8 +14,8 @@
 
 package project
 
-// Import here anonymously all yep addons you need in your application
+// Import here anonymously all hexya addons you need in your application
 import (
 	// Import webclient module
-	_ "github.com/npiganeau/yep-base/web"
+	_ "github.com/hexya-erp/hexya-base/web"
 )
