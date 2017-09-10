@@ -1,0 +1,6 @@
+LogLevel = "debug"
+LogStdout = true
+Debug = true
+
+[Server]
+Languages = ["fr"]
