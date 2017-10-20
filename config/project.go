@@ -17,6 +17,6 @@ package project
 // Import here anonymously all hexya addons you need in your application
 import (
 	// Import web client module
-	_ "github.com/hexya-erp/hexya-addons/product"
+	_ "github.com/hexya-erp/hexya-addons/analytic"
 	_ "github.com/hexya-erp/hexya-base/web"
 )
