@@ -24,3 +24,4 @@ _testmain.go
 *.prof
 
 start.go
+updatedb.go
