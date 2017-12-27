@@ -1,4 +1,4 @@
-LogLevel = "debug"
+#LogLevel = "debug"
 LogStdout = true
 Debug = true
 
