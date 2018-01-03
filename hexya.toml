@@ -1,6 +1,21 @@
-#LogLevel = "debug"
+Modules = [
+    "github.com/hexya-erp/hexya-addons/sale"
+]
 LogStdout = true
-Debug = true
+#LogFile = ""
+#LogLevel = "info"
+#Debug = false
+#DataDir = ""
+
+[DB]
+#Driver = "postgres"
+#Host = "/var/run/postgresql"
+#Port = 5432
+#User = ""
+#Password = ""
+#Name = "Hexya"
 
 [Server]
 Languages = ["fr"]
+#Interface = ""
+#Port = 8080
