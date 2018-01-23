@@ -13,7 +13,7 @@ LogStdout = true
 #Port = 5432
 #User = ""
 #Password = ""
-#Name = "Hexya"
+#Name = "hexya"
 
 [Server]
 Languages = ["fr"]
