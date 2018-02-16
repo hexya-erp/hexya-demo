@@ -19,3 +19,6 @@ LogStdout = true
 Languages = ["fr"]
 #Interface = ""
 #Port = 8080
+#Domain = ""
+#Certificate = ""
+#PrivateKey = ""
