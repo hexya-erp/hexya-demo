@@ -3,7 +3,7 @@ Modules = [
 ]
 LogStdout = true
 #LogFile = ""
-#LogLevel = "info"
+LogLevel = "debug"
 #Debug = false
 #DataDir = ""
 
@@ -20,5 +20,5 @@ Languages = ["fr"]
 #Interface = ""
 #Port = 8080
 #Domain = ""
-#Certificate = ""
-#PrivateKey = ""
+Certificate = "/home/npiganeau/Progs/cert.pem"
+PrivateKey = "/home/npiganeau/Progs/key.pem"
