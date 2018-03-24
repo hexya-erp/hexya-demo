@@ -5,6 +5,7 @@ LogStdout = true
 #LogFile = ""
 LogLevel = "debug"
 #Debug = false
+Demo = true
 #DataDir = ""
 
 [DB]
