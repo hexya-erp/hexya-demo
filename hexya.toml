@@ -1,10 +1,10 @@
 Modules = [
-    "github.com/hexya-erp/hexya-addons/sale"
+    "github.com/hexya-addons/sale"
 ]
 LogStdout = true
 #LogFile = ""
-LogLevel = "debug"
-#Debug = false
+LogLevel = "info"
+#Debug = true
 Demo = true
 #DataDir = ""
 
@@ -25,5 +25,5 @@ Languages = ["fr"]
 #Interface = ""
 #Port = 8080
 #Domain = ""
-Certificate = "/home/npiganeau/Progs/cert.pem"
-PrivateKey = "/home/npiganeau/Progs/key.pem"
+#Certificate = ""
+#PrivateKey = ""
