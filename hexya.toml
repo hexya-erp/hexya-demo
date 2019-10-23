@@ -1,10 +1,10 @@
 Modules = [
-    "github.com/hexya-addons/sale"
+    "github.com/hexya-addons/account"
 ]
 LogStdout = true
 #LogFile = ""
 LogLevel = "info"
-#Debug = true
+Debug = true
 Demo = true
 #DataDir = ""
 
@@ -21,7 +21,7 @@ Demo = true
 #SSLCA = ""
 
 [Server]
-Languages = ["fr"]
+Languages = ["all"]
 #Interface = ""
 #Port = 8080
 #Domain = ""
