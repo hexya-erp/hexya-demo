@@ -1,5 +1,5 @@
 Modules = [
-    "github.com/hexya-addons/account"
+    "github.com/hexya-addons/web"
 ]
 LogStdout = true
 #LogFile = ""
